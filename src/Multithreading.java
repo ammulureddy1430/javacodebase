@@ -3,7 +3,7 @@ public class Multithreading extends Thread {
         int i;
         for (i = 0; i < 10; i++)
             System.out.println("value" + i);
-        System.out.println("value");
+        System.out.println("value1");
     }
 
     public static void main(String args[]) {
