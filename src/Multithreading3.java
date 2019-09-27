@@ -1,5 +1,5 @@
 public class Multithreading3 extends Thread {
-    
+
     public static void main(String args[])
     {
         Multithreading3 t1=new Multithreading3();
